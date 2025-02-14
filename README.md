@@ -1,7 +1,8 @@
 # Virtual_Assistant
 Virtual Assistant --> A simple virtual assistant built using HTML, CSS, and JavaScript. This project allows users to interact with the assistant through voice commands or text input, providing responses based on predefined logic. It showcases basic AI functionalities using JavaScript.
 The Virtual Assistant is a mini-project developed using HTML, CSS, and JavaScript. This project is designed to assist users by responding to their commands using text, voice recognition, and simple predefined logic. It is an interactive web-based assistant that provides a basic AI-like experience.
-https://github.com/Sonaa244457/Virtual_Assistant/blob/3fce8b33427355fc0a8e6d57c3f1040ea3f600d9/Screenshot%20(25).png
+
+![image alt](https://github.com/Sonaa244457/Virtual_Assistant/blob/b75e578048857178005ed6914fa1cdda18f82b1f/Screenshot%20(25).png)
 
 Features
 
