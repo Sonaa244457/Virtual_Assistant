@@ -28,14 +28,6 @@ JavaScript – For handling interactions, processing user commands, and implemen
 
 How to Run the Project
 
-Clone the repository
-
-git clone https://github.com/yourusername/virtual-assistant.git
-
-Navigate to the project folder
-
-cd virtual-assistant
-
 Open the index.html file in a browser
 
 Simply double-click on the index.html file, or
